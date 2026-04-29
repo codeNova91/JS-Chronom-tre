@@ -10,6 +10,6 @@ Une application utilitaire précise développée en **JavaScript** pur pour mesu
 
 ##  Technologies utilisées
 - **HTML5**
-- **CSS3** (Flexbox pour le centrage)
+- **CSS3** 
 - **JavaScript** (setInterval & Timing events)
 
